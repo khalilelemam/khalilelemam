@@ -1,0 +1,162 @@
+<svg viewBox="0 0 1600 500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Khalil Elemam — Backend, AI, Full Stack Engineer">
+
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e1a"/>
+      <stop offset="55%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0.3"/>
+    </linearGradient>
+
+    <radialGradient id="centerGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.55"/>
+      <stop offset="60%" stop-color="#3b82f6" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="ambient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="dots" x="0" y="0" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="15" cy="15" r="1" fill="#334155" opacity="0.45"/>
+    </pattern>
+
+    <pattern id="grid" x="0" y="0" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M 60 0 L 0 0 0 60" fill="none" stroke="#1e293b" stroke-width="1" opacity="0.35"/>
+    </pattern>
+  </defs>
+
+  <!-- Background layers -->
+  <rect width="1600" height="500" fill="url(#bg)"/>
+  <rect width="1600" height="500" fill="url(#dots)"/>
+  <rect width="1600" height="500" fill="url(#grid)"/>
+
+  <!-- Ambient glow (right side) -->
+  <ellipse cx="1250" cy="250" rx="500" ry="320" fill="url(#ambient)"/>
+
+  <!-- Floating particles -->
+  <g>
+    <circle cx="200" cy="100" r="1.5" fill="#3b82f6">
+      <animate attributeName="opacity" values="0.2;0.9;0.2" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="380" cy="430" r="1.5" fill="#06b6d4">
+      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="540" cy="80" r="1" fill="#3b82f6">
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="800" cy="380" r="1.5" fill="#06b6d4">
+      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="900" cy="60" r="1" fill="#3b82f6">
+      <animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Left vertical accent line -->
+  <rect x="80" y="120" width="4" height="260" fill="url(#accent)"/>
+
+  <!-- Status pill (top left) -->
+  <g transform="translate(110, 130)">
+    <rect width="280" height="32" rx="16" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <circle cx="18" cy="16" r="4" fill="#22c55e">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="32" y="20" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#94a3b8" letter-spacing="0.3">
+      open to opportunities
+    </text>
+  </g>
+
+  <!-- Name -->
+  <text x="110" y="285" font-family="Inter, system-ui, -apple-system, Segoe UI, sans-serif" font-size="86" font-weight="800" fill="white" letter-spacing="-2.5">
+    Khalil
+  </text>
+  <text x="110" y="365" font-family="Inter, system-ui, -apple-system, Segoe UI, sans-serif" font-size="86" font-weight="800" fill="url(#accent)" letter-spacing="-2.5">
+    Elemam
+  </text>
+
+  <!-- Role -->
+  <text x="112" y="410" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="20" font-weight="500" fill="#cbd5e1" letter-spacing="0.3">
+    Backend · AI · Full Stack Engineer
+  </text>
+
+  <!-- Right side: Node network -->
+  <g transform="translate(960, 100)">
+
+    <!-- Connection lines (animated dashes) -->
+    <g fill="none" stroke-width="2" stroke-linecap="round">
+      <path d="M 220 200 Q 300 130 410 130" stroke="url(#lineGrad)" stroke-dasharray="6 6" opacity="0.7">
+        <animate attributeName="stroke-dashoffset" from="0" to="-24" dur="2s" repeatCount="indefinite"/>
+      </path>
+      <path d="M 220 200 Q 350 200 480 220" stroke="url(#lineGrad)" stroke-dasharray="6 6" opacity="0.7">
+        <animate attributeName="stroke-dashoffset" from="0" to="-24" dur="2.5s" repeatCount="indefinite"/>
+      </path>
+      <path d="M 220 200 Q 300 280 380 320" stroke="url(#lineGrad)" stroke-dasharray="6 6" opacity="0.7">
+        <animate attributeName="stroke-dashoffset" from="0" to="-24" dur="3s" repeatCount="indefinite"/>
+      </path>
+      <path d="M 220 200 Q 150 270 110 320" stroke="url(#lineGrad)" stroke-dasharray="6 6" opacity="0.7">
+        <animate attributeName="stroke-dashoffset" from="0" to="-24" dur="2.2s" repeatCount="indefinite"/>
+      </path>
+      <path d="M 410 130 Q 470 170 480 220" stroke="url(#lineGrad)" stroke-dasharray="6 6" opacity="0.4">
+        <animate attributeName="stroke-dashoffset" from="0" to="-24" dur="2.7s" repeatCount="indefinite"/>
+      </path>
+      <path d="M 480 220 Q 440 270 380 320" stroke="url(#lineGrad)" stroke-dasharray="6 6" opacity="0.4">
+        <animate attributeName="stroke-dashoffset" from="0" to="-24" dur="3.2s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+    <!-- Center node glow -->
+    <circle cx="220" cy="200" r="55" fill="url(#centerGlow)"/>
+
+    <!-- Center node (the "you") -->
+    <circle cx="220" cy="200" r="28" fill="#0f172a" stroke="url(#accent)" stroke-width="3">
+      <animate attributeName="r" values="28;30;28" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <text x="220" y="208" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="22" font-weight="800" fill="#f8fafc">K</text>
+
+    <!-- Outer node: Backend (top-right) -->
+    <g>
+      <circle cx="410" cy="130" r="36" fill="#0f172a" stroke="#3b82f6" stroke-width="2.5"/>
+      <text x="410" y="127" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#f8fafc">Backend</text>
+      <text x="410" y="143" text-anchor="middle" font-family="ui-monospace, monospace" font-size="9.5" fill="#64748b" letter-spacing="0.3">Java · Spring</text>
+    </g>
+
+    <!-- Outer node: AI (right) -->
+    <g>
+      <circle cx="480" cy="220" r="36" fill="#0f172a" stroke="#06b6d4" stroke-width="2.5"/>
+      <text x="480" y="217" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#f8fafc">AI</text>
+      <text x="480" y="233" text-anchor="middle" font-family="ui-monospace, monospace" font-size="9.5" fill="#64748b" letter-spacing="0.3">Python · ML</text>
+    </g>
+
+    <!-- Outer node: Frontend (bottom-right) -->
+    <g>
+      <circle cx="380" cy="320" r="36" fill="#0f172a" stroke="#8b5cf6" stroke-width="2.5"/>
+      <text x="380" y="317" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#f8fafc">Frontend</text>
+      <text x="380" y="333" text-anchor="middle" font-family="ui-monospace, monospace" font-size="9.5" fill="#64748b" letter-spacing="0.3">React · Next</text>
+    </g>
+
+    <!-- Outer node: Data (bottom-left) -->
+    <g>
+      <circle cx="110" cy="320" r="36" fill="#0f172a" stroke="#22c55e" stroke-width="2.5"/>
+      <text x="110" y="317" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#f8fafc">Data</text>
+      <text x="110" y="333" text-anchor="middle" font-family="ui-monospace, monospace" font-size="9.5" fill="#64748b" letter-spacing="0.3">Postgres</text>
+    </g>
+  </g>
+
+  <!-- Bottom moving accent line -->
+  <rect x="-400" y="492" width="400" height="2" fill="url(#accent)" opacity="0.7">
+    <animate attributeName="x" from="-400" to="1600" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+</svg>
