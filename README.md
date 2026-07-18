@@ -104,39 +104,26 @@ Sharpening algorithms, data structures, and engineering fundamentals.
 
 <br>
 
-<table align="center" style="border: none; background: transparent; width: 100%;">
-<tr>
-
-<td width="55%" valign="middle" style="border: none; background: transparent; padding-right: 30px;">
-
-<h3>Why I Practice</h3>
-
-<p>I regularly solve algorithmic and data structure problems to strengthen the foundations that carry over into backend engineering, distributed systems, and writing efficient software.</p>
-
-<p>Rather than optimizing for problem counts, I focus on recognizing patterns, improving problem-solving, and building a deeper understanding of computer science fundamentals through consistent practice.</p>
-
-<br>
-
-<a href="https://leetcode.com/khalilelemam">
-  <img src="https://img.shields.io/badge/LeetCode-20232A?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.codewars.com/users/khalilelemam">
-  <img src="https://img.shields.io/badge/Codewars-20232A?style=for-the-badge&logo=codewars&logoColor=B1361E" alt="Codewars" />
-</a>
-
-</td>
-
-<td width="45%" align="center" valign="middle" style="border: none; background: transparent;">
-
-<a href="https://leetcode.com/khalilelemam">
-  <img width="100%" src="https://github-readme-leetcode-card.romitsagu.com/khalilelemam?theme=dark&show=graph" alt="LeetCode Stats" />
-</a>
-
-</td>
-
-</tr>
-</table>
+<div style="display: flex; gap: 30px; align-items: center; justify-content: space-between;">
+  <div style="flex: 1;">
+    <h3>Why I Practice</h3>
+    <p>I regularly solve algorithmic and data structure problems to strengthen the foundations that carry over into backend engineering, distributed systems, and writing efficient software.</p>
+    <p>Rather than optimizing for problem counts, I focus on recognizing patterns, improving problem-solving, and building a deeper understanding of computer science fundamentals through consistent practice.</p>
+    <br>
+    <a href="https://leetcode.com/khalilelemam">
+      <img src="https://img.shields.io/badge/LeetCode-20232A?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.codewars.com/users/khalilelemam">
+      <img src="https://img.shields.io/badge/Codewars-20232A?style=for-the-badge&logo=codewars&logoColor=B1361E" alt="Codewars" />
+    </a>
+  </div>
+  <div>
+    <a href="https://leetcode.com/khalilelemam">
+      <img src="https://github-readme-leetcode-card.romitsagu.com/khalilelemam?theme=dark&show=graph" alt="LeetCode Stats" />
+    </a>
+  </div>
+</div>
 
 <div align="center">
 <img src="assets/separator.svg" width="100%" alt="separator" />
@@ -151,32 +138,27 @@ Building projects, sharing code, and continuously learning in public.
 
 <br>
 
-<table align="center" style="border: none; background: transparent; width: 100%;">
-  <tr>
-    <td width="55%" valign="middle" style="border: none; background: transparent; padding-right: 30px;">
-      <h3>Beyond the Commits</h3>
-      <p>Most of what I learn eventually becomes a project. I enjoy building complete applications that explore backend engineering, AI, and full-stack development, treating personal projects with the same mindset I'd bring to production software.</p>
-      <p>My repositories document that journey: from experimenting with new technologies to refining architecture, improving maintainability, and solving real engineering problems along the way.</p>
-      <br>
-      <a href="https://github.com/khalilelemam?tab=repositories">
-        <img src="https://img.shields.io/badge/Explore_Repositories-20232A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-      </a>
-    </td>
-    <td width="45%" align="center" valign="middle" style="border: none; background: transparent;">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khalilelemam&theme=tokyonight" alt="GitHub Stats" />
-    </td>
-  </tr>
-  <tr>
-    <!-- Applied fixed height to lock the sizes vertically -->
-    <td width="60%" align="center" valign="middle" style="border: none; background: transparent; padding-right: 30px; padding-top: 15px;">
-      <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khalilelemam&theme=tokyonight" alt="Profile Details" />
-    </td>
-    <!-- Applied matching fixed height here -->
-    <td width="40%" align="center" valign="middle" style="border: none; background: transparent; padding-top: 15px;">
-      <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khalilelemam&theme=tokyonight&exclude=Jupyter%20Notebook" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; gap: 30px; align-items: center; justify-content: space-between;">
+  <div style="flex: 1;">
+    <h3>Beyond the Commits</h3>
+    <p>Most of what I learn eventually becomes a project. I enjoy building complete applications that explore backend engineering, AI, and full-stack development, treating personal projects with the same mindset I'd bring to production software.</p>
+    <p>My repositories document that journey: from experimenting with new technologies to refining architecture, improving maintainability, and solving real engineering problems along the way.</p>
+    <br>
+    <a href="https://github.com/khalilelemam?tab=repositories">
+      <img src="https://img.shields.io/badge/Explore_Repositories-20232A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+    </a>
+  </div>
+  <div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khalilelemam&theme=tokyonight&animation=sequence&border_color=7dcfff" alt="GitHub Stats" />
+  </div>
+</div>
+
+<br>
+
+<div style="display: flex; gap: 15px; align-items: stretch; justify-content: center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khalilelemam&theme=tokyonight&animation=sequence&border_color=7dcfff" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khalilelemam&theme=tokyonight&animation=sequence&border_color=7dcfff&exclude=Jupyter%20Notebook,css" alt="Top Languages" />
+</div>
 
 <br><br>
 
