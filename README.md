@@ -154,11 +154,12 @@ Building projects, sharing code, and continuously learning in public.
 <br>
 
 <p align="center">
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khalilelemam&theme=tokyonight&animation=sequence&border_color=7dcfff" alt="Profile Details" />
-  &nbsp;&nbsp;
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khalilelemam&theme=tokyonight&animation=sequence&border_color=7dcfff&exclude=Jupyter%20Notebook,css" alt="Top Languages" />
+  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khalilelemam&theme=tokyonight&animation=sequence&border_color=7dcfff" alt="Profile Details" />
+  &nbsp;
+  <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khalilelemam&theme=tokyonight&animation=sequence&border_color=7dcfff&exclude=Jupyter%20Notebook,css" alt="Top Languages" />
 </p>
 
+<br clear="both">
 <br><br>
 
 <div align="center">
