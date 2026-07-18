@@ -58,7 +58,7 @@ jobs:
 
             // 2) Build the cards and wrap them in an HTML table for a strict grid
             const cards = pinned.map(r =>
-              `<a href="${r.url}"><img src="https://github-stats-extended.vercel.app/api/pin/?username=${owner}&repo=${r.name}&theme=tokyonight&hide_border=true" alt="${r.name}"/></a>`
+              `<a href="${r.url}"><img src="https://github-stats-extended.vercel.app/api/pin/?username=${owner}&repo=${r.name}&theme=tokyonight&description_lines_count=3&hide_border=true" alt="${r.name}"/></a>`
             );
 
             let htmlTable = `<table align="center" border="0" cellpadding="10" cellspacing="0">\n`;
