@@ -12,7 +12,7 @@
   </a>
   &nbsp;
   <a href="mailto:khalil.l.elemam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -29,11 +29,11 @@ Who I am, what I build, and what drives my engineering.
 </p>
 </div>
 
-I'm a backend engineer with a strong interest in AI and full-stack development. Most of my work is built with Java and Spring Boot, while I use Python for AI services and TypeScript for modern web applications. I enjoy working on the engineering challenges that sit beneath the surface: service boundaries, database design, transaction management, distributed systems, and building software that remains reliable as it grows.
+<p>I'm a backend engineer with a strong interest in AI and full-stack development. Most of my work is built with Java and Spring Boot, while I use Python for AI services and TypeScript for modern web applications. I enjoy working on the engineering challenges that sit beneath the surface: service boundaries, database design, transaction management, distributed systems, and building software that remains reliable as it grows.</p>
 
-Over the past year, I've been exploring AI engineering beyond training models. One of the biggest lessons has been that the difficult part is rarely the model itself. It's everything around it. Data pipelines, retrieval quality, evaluation, latency, deployment, and building systems that continue to work when real users start interacting with them.
+<p>Over the past year, I've been exploring AI engineering beyond training models. One of the biggest lessons has been that the difficult part is rarely the model itself. It's everything around it. Data pipelines, retrieval quality, evaluation, latency, deployment, and building systems that continue to work when real users start interacting with them.</p>
 
-No matter the stack, I'm driven by the same goal: building software that's scalable, maintainable, and designed with solid engineering fundamentals rather than short-term solutions.
+<p>No matter the stack, I'm driven by the same goal: building software that's scalable, maintainable, and designed with solid engineering fundamentals rather than short-term solutions.</p>
 
 <div align="center">
 <img src="assets/separator.svg" width="100%" alt="separator" />
@@ -51,7 +51,6 @@ The repositories that best represent my work.
 <div align="center">
 <a href="https://github.com/khalilelemam/ecommerce-backend"><img src="https://github-stats-extended.vercel.app/api/pin/?username=khalilelemam&repo=ecommerce-backend&theme=tokyonight&description_lines_count=2&hide_border=false&border_color=7dcfff&show_owner=true" alt="ecommerce-backend"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/khalilelemam/lexora"><img src="https://github-stats-extended.vercel.app/api/pin/?username=khalilelemam&repo=lexora&theme=tokyonight&description_lines_count=2&hide_border=false&border_color=7dcfff&show_owner=true" alt="lexora"/></a><br><br>
 <a href="https://github.com/khalilelemam/loca"><img src="https://github-stats-extended.vercel.app/api/pin/?username=khalilelemam&repo=loca&theme=tokyonight&description_lines_count=2&hide_border=false&border_color=7dcfff&show_owner=true" alt="loca"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/khalilelemam/eventora"><img src="https://github-stats-extended.vercel.app/api/pin/?username=khalilelemam&repo=eventora&theme=tokyonight&description_lines_count=2&hide_border=false&border_color=7dcfff&show_owner=true" alt="eventora"/></a><br><br>
-
 </div>
 <!-- PINNED_END -->
 
@@ -105,35 +104,33 @@ Sharpening algorithms, data structures, and engineering fundamentals.
 
 <br>
 
-<table align="center">
+<table align="center" style="border: none; background: transparent; width: 100%;">
 <tr>
 
-<td width="55%" valign="top">
+<td width="55%" valign="middle" style="border: none; background: transparent; padding-right: 30px;">
 
-### Why I Practice
+<h3>Why I Practice</h3>
 
-I regularly solve algorithmic and data structure problems to strengthen the foundations that carry over into backend engineering, distributed systems, and writing efficient software.
+<p>I regularly solve algorithmic and data structure problems to strengthen the foundations that carry over into backend engineering, distributed systems, and writing efficient software.</p>
 
-Rather than optimizing for problem counts, I focus on recognizing patterns, improving problem-solving, and building a deeper understanding of computer science fundamentals through consistent practice.
+<p>Rather than optimizing for problem counts, I focus on recognizing patterns, improving problem-solving, and building a deeper understanding of computer science fundamentals through consistent practice.</p>
 
 <br>
 
-<p>
 <a href="https://leetcode.com/khalilelemam">
-<img src="https://img.shields.io/badge/LeetCode-20232A?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-20232A?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.codewars.com/users/khalilelemam">
-<img src="https://img.shields.io/badge/Codewars-20232A?style=flat-square&logo=codewars&logoColor=B1361E" alt="Codewars" />
+  <img src="https://img.shields.io/badge/Codewars-20232A?style=for-the-badge&logo=codewars&logoColor=B1361E" alt="Codewars" />
 </a>
-</p>
 
 </td>
 
-<td width="45%" align="center" valign="top">
+<td width="45%" align="center" valign="middle" style="border: none; background: transparent;">
 
 <a href="https://leetcode.com/khalilelemam">
-<img src="https://leetcard.jacoblin.cool/khalilelemam?theme=dark&font=Inter&ext=contest" alt="LeetCode Stats" />
+  <img width="100%" src="https://github-readme-leetcode-card.romitsagu.com/khalilelemam?theme=dark&show=graph" alt="LeetCode Stats" />
 </a>
 
 </td>
@@ -154,37 +151,34 @@ Building projects, sharing code, and continuously learning in public.
 
 <br>
 
-<table align="center">
-<tr>
-
-<td width="55%" valign="top">
-
-<h3>Beyond the Commits</h3>
-
-Most of what I learn eventually becomes a project. I enjoy building complete applications that explore backend engineering, AI, and full-stack development, treating personal projects with the same mindset I'd bring to production software.
-
-My repositories document that journey: from experimenting with new technologies to refining architecture, improving maintainability, and solving real engineering problems along the way.
-
-<br>
-
-<a href="https://github.com/khalilelemam">
-<img src="https://img.shields.io/badge/View_GitHub_Profile-20232A?style=flat-square&logo=github&logoColor=white" alt="View GitHub Profile" />
-</a>
-
-</td>
-
-<td width="45%" align="center" valign="top">
-
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=khalilelemam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+<table align="center" style="border: none; background: transparent; width: 100%;">
+  <tr>
+    <td width="55%" valign="middle" style="border: none; background: transparent; padding-right: 30px;">
+      <h3>Beyond the Commits</h3>
+      <p>Most of what I learn eventually becomes a project. I enjoy building complete applications that explore backend engineering, AI, and full-stack development, treating personal projects with the same mindset I'd bring to production software.</p>
+      <p>My repositories document that journey: from experimenting with new technologies to refining architecture, improving maintainability, and solving real engineering problems along the way.</p>
+      <br>
+      <a href="https://github.com/khalilelemam?tab=repositories">
+        <img src="https://img.shields.io/badge/Explore_Repositories-20232A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+      </a>
+    </td>
+    <td width="45%" align="center" valign="middle" style="border: none; background: transparent;">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khalilelemam&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <!-- Applied fixed height to lock the sizes vertically -->
+    <td width="60%" align="center" valign="middle" style="border: none; background: transparent; padding-right: 30px; padding-top: 15px;">
+      <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khalilelemam&theme=tokyonight" alt="Profile Details" />
+    </td>
+    <!-- Applied matching fixed height here -->
+    <td width="40%" align="center" valign="middle" style="border: none; background: transparent; padding-top: 15px;">
+      <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khalilelemam&theme=tokyonight&exclude=Jupyter%20Notebook" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <br><br>
-
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=khalilelemam&layout=compact&theme=tokyonight&hide_border=true&card_width=320&hide=jupyter%20notebook" alt="Top Languages" />
-
-</td>
-
-</tr>
-</table>
 
 <div align="center">
 <img src="assets/footer.svg" width="100%" alt="Footer" />
