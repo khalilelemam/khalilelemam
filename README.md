@@ -155,7 +155,7 @@ Building projects, sharing code, and continuously learning in public.
 
 <p align="center">
   <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khalilelemam&theme=tokyonight&animation=sequence&border_color=7dcfff" alt="Profile Details" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khalilelemam&theme=tokyonight&animation=sequence&border_color=7dcfff&exclude=Jupyter%20Notebook,css" alt="Top Languages" />
 </p>
 
