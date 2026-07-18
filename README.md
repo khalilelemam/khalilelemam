@@ -51,13 +51,15 @@ The repositories that best represent my work.
 <div align="center">
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
-    <td align="center" valign="top"><a href="https://github.com/khalilelemam/ecommerce-backend"><img src="https://github-stats-extended.vercel.app/api/pin/?username=khalilelemam&repo=ecommerce-backend&theme=tokyonight&description_lines_count=3&hide_border=true" alt="ecommerce-backend"/></a></td>
-    <td align="center" valign="top"><a href="https://github.com/khalilelemam/lexora"><img src="https://github-stats-extended.vercel.app/api/pin/?username=khalilelemam&repo=lexora&theme=tokyonight&description_lines_count=3&hide_border=true" alt="lexora"/></a></td>
+    <td align="center" valign="top"><a href="https://github.com/khalilelemam/ecommerce-backend"><img src="https://github-stats-extended.vercel.app/api/pin/?username=khalilelemam&repo=ecommerce-backend&theme=tokyonight&description_lines_count=2&hide_border=true" alt="ecommerce-backend"/></a></td>
+    <td align="center" valign="top"><a href="https://github.com/khalilelemam/lexora"><img src="https://github-stats-extended.vercel.app/api/pin/?username=khalilelemam&repo=lexora&theme=tokyonight&description_lines_count=2&hide_border=true" alt="lexora"/></a></td>
   </tr>
+  <tr><td colspan="2" style="padding: 0; height: 0; border: none;"></td></tr>
   <tr>
-    <td align="center" valign="top"><a href="https://github.com/khalilelemam/loca"><img src="https://github-stats-extended.vercel.app/api/pin/?username=khalilelemam&repo=loca&theme=tokyonight&description_lines_count=3&hide_border=true" alt="loca"/></a></td>
-    <td align="center" valign="top"><a href="https://github.com/khalilelemam/eventora"><img src="https://github-stats-extended.vercel.app/api/pin/?username=khalilelemam&repo=eventora&theme=tokyonight&description_lines_count=3&hide_border=true" alt="eventora"/></a></td>
+    <td align="center" valign="top"><a href="https://github.com/khalilelemam/loca"><img src="https://github-stats-extended.vercel.app/api/pin/?username=khalilelemam&repo=loca&theme=tokyonight&description_lines_count=2&hide_border=true" alt="loca"/></a></td>
+    <td align="center" valign="top"><a href="https://github.com/khalilelemam/eventora"><img src="https://github-stats-extended.vercel.app/api/pin/?username=khalilelemam&repo=eventora&theme=tokyonight&description_lines_count=2&hide_border=true" alt="eventora"/></a></td>
   </tr>
+  <tr><td colspan="2" style="padding: 0; height: 0; border: none;"></td></tr>
 </table>
 </div>
 <!-- PINNED_END -->
