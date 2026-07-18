@@ -56,9 +56,9 @@ jobs:
               return;
             }
 
-            // 2) Build the card block. Each card is an <img> from github-readme-stats.
+            // 2) Build the card block. Each card is an <img> from github-stats-extended.
             const cards = pinned.map(r =>
-              `<a href="${r.url}"><img src="https://github-readme-stats.vercel.app/api/pin/?username=${owner}&repo=${r.name}&theme=tokyonight&hide_border=true&description_lines=2" alt="${r.name}"/></a>`
+              `<a href="${r.url}"><img src="https://github-stats-extended.vercel.app/api/pin/?username=${owner}&repo=${r.name}&theme=tokyonight&hide_border=true&description_lines=2" alt="${r.name}"/></a>`
             ).join('\n');
 
             // Wrap in a centered div to match the rest of your README styling
