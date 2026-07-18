@@ -28,7 +28,6 @@ jobs:
         with:
           script: |
             const fs = require('fs');
-            // Remove the 'exec' require line, as github-script provides it automatically
             const { owner } = context.repo;
 
             // 1) Fetch the user's pinned repositories via GitHub GraphQL
@@ -88,9 +87,9 @@ jobs:
             core.info('README.md updated with ' + pinned.length + ' pinned repos');
 
             // 4) Commit and push the change
-            // 'exec' is used here directly since github-script provides it natively
-            await exec('git', ['config', 'user.name', 'github-actions[bot]']);
-            await exec('git', ['config', 'user.email', '41898282+github-actions[bot]@users.noreply.github.com']);
-            await exec('git', ['add', readmePath]);
-            await exec('git', ['commit', '-m', 'chore: sync pinned repositories from GitHub profile']);
-            await exec('git', ['push']);
+            // Using exec.exec() since github-script exposes the whole @actions/exec module as 'exec'
+            await exec.exec('git', ['config', 'user.name', 'github-actions[bot]']);
+            await exec.exec('git', ['config', 'user.email', '41898282+github-actions[bot]@users.noreply.github.com']);
+            await exec.exec('git', ['add', readmePath]);
+            await exec.exec('git', ['commit', '-m', 'chore: sync pinned repositories from GitHub profile']);
+            await exec.exec('git', ['push']);
