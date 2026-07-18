@@ -104,7 +104,7 @@ Sharpening algorithms, data structures, and engineering fundamentals.
 
 <br>
 
-<div style="display: flex; gap: 30px; align-items: center; justify-content: space-between;">
+<div style="display: flex; gap: 30px; align-items: center; justify-content: space-between; flex-wrap: nowrap;">
   <div style="flex: 1;">
     <h3>Why I Practice</h3>
     <p>I regularly solve algorithmic and data structure problems to strengthen the foundations that carry over into backend engineering, distributed systems, and writing efficient software.</p>
@@ -138,7 +138,7 @@ Building projects, sharing code, and continuously learning in public.
 
 <br>
 
-<div style="display: flex; gap: 30px; align-items: center; justify-content: space-between;">
+<div style="display: flex; gap: 30px; align-items: center; justify-content: space-between; flex-wrap: nowrap;">
   <div style="flex: 1;">
     <h3>Beyond the Commits</h3>
     <p>Most of what I learn eventually becomes a project. I enjoy building complete applications that explore backend engineering, AI, and full-stack development, treating personal projects with the same mindset I'd bring to production software.</p>
@@ -155,7 +155,7 @@ Building projects, sharing code, and continuously learning in public.
 
 <br>
 
-<div style="display: flex; gap: 15px; align-items: stretch; justify-content: center;">
+<div style="display: flex; gap: 15px; align-items: stretch; justify-content: center; flex-wrap: nowrap;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khalilelemam&theme=tokyonight&animation=sequence&border_color=7dcfff" alt="Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khalilelemam&theme=tokyonight&animation=sequence&border_color=7dcfff&exclude=Jupyter%20Notebook,css" alt="Top Languages" />
 </div>
