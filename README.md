@@ -51,6 +51,7 @@ The repositories that best represent my work.
 <div align="center">
 <a href="https://github.com/khalilelemam/ecommerce-backend"><img src="https://github-stats-extended.vercel.app/api/pin/?username=khalilelemam&repo=ecommerce-backend&theme=tokyonight&description_lines_count=2&hide_border=false&border_color=7dcfff&show_owner=true" alt="ecommerce-backend"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/khalilelemam/lexora"><img src="https://github-stats-extended.vercel.app/api/pin/?username=khalilelemam&repo=lexora&theme=tokyonight&description_lines_count=2&hide_border=false&border_color=7dcfff&show_owner=true" alt="lexora"/></a><br><br>
 <a href="https://github.com/khalilelemam/loca"><img src="https://github-stats-extended.vercel.app/api/pin/?username=khalilelemam&repo=loca&theme=tokyonight&description_lines_count=2&hide_border=false&border_color=7dcfff&show_owner=true" alt="loca"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/khalilelemam/eventora"><img src="https://github-stats-extended.vercel.app/api/pin/?username=khalilelemam&repo=eventora&theme=tokyonight&description_lines_count=2&hide_border=false&border_color=7dcfff&show_owner=true" alt="eventora"/></a><br><br>
+
 </div>
 <!-- PINNED_END -->
 
